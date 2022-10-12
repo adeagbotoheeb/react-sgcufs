@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px 80px 0 0;
+}
+
+.calc-wrapper{
+  background-color: white;
+  width: 400px;
+  border-radius: 16px;
+}
+
+.row{
+  display: flex;
+}
+
+.headline{
+  color: white;
+  font-size: 20px;
+  margin-bottom: 30%;
+  margin-right: 20px;
+}
+
+.headline h2{
+  color: lightcoral;
+  margin-left: 20%;
+}
